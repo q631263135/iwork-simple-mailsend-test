@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: spring-beans-4.3.13.RELEASE.jar commons-logging-1.2.jar sp
+ ring-context-support-4.3.13.RELEASE.jar activation-1.1.jar slf4j-api-
+ 1.7.26.jar spring-context-4.3.13.RELEASE.jar spring-expression-4.3.13
+ .RELEASE.jar mail-1.4.3.jar spring-core-4.3.13.RELEASE.jar spring-aop
+ -4.3.13.RELEASE.jar
+Main-Class: com.joyin.MailSentUtil
+
